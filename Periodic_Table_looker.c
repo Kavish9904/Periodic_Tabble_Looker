@@ -1,11 +1,11 @@
 #include <stdio.h>
-#include <string.h> // For string handling functions
+#include <string.h>
 
 int main()
 {
     int n;
     int option;
-    char search[20]; // Buffer to store search string
+    char search[20];
 
     printf("Welcome to Modern Periodic Table\n\n");
 
